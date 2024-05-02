@@ -1,5 +1,5 @@
 #'---
-#' title: [optional]
+#' title: Preparing Textual Data
 #' output: github_document
 #'---
 
